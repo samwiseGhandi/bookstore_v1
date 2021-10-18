@@ -1,0 +1,45 @@
+Thank you for your purchase!
+Your order containing:  
+----------------------------------------
+1)'It ends with us' by Colleen Hoover. `
+Price: 9781471156267
+Weight: 9781471156267
+ISBN: 9781471156267
+----------------------------------------
+----------------------------------------
+2)'Dune' by Frank Herbert. `
+Price: 9780340960196
+Weight: 9780340960196
+ISBN: 9780340960196
+----------------------------------------
+----------------------------------------
+3)'They both die at the end' by Adam Silvera. `
+Price: 9781471166204
+Weight: 9781471166204
+ISBN: 9781471166204
+----------------------------------------
+----------------------------------------
+4)'By the sea' by Abdulrazek Gurnah. `
+Price: 9780747557852
+Weight: 9780747557852
+ISBN: 9780747557852
+----------------------------------------
+----------------------------------------
+5)'Paradise' by Abdulrazek Gurnah. `
+Price: 9781565841635
+Weight: 9781565841635
+ISBN: 9781565841635
+----------------------------------------
+----------------------------------------
+6)'Punk 57' by Douglas Penelope. `
+Price: 9781539427766
+Weight: 9781539427766
+ISBN: 9781539427766
+----------------------------------------
+Total amount of books: 6
+Total amount of boxes: 2
+Total weight of delivery: 1806.0g
+
+Total price of your order: 1152.0 SEK
+----------------------------------------
+If you decided to pick up you're order in the store your total price is:852.0SEK
